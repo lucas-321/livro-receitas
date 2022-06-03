@@ -1,3 +1,9 @@
-<h1>Livro de Receitas</h1> :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas!!! :chicken:
+#Livro de Receitas :man_cook:
+
+
+Olá! Bem vindo ao meu livro de receitas!!! :wave: 
+
+ - Strogonoff de Frango :chicken:
+ - Pavê :icecream:
+ - Bolo de Cenoura :cake:
